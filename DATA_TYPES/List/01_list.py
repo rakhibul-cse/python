@@ -1,0 +1,20 @@
+numbers = [10, 20, 30, 40, 50, 10]
+# print(numbers)
+# print(numbers[0])
+# print(numbers[-1])
+# print(numbers[:3])
+# print(numbers[1::2])
+# print(len(numbers))
+# numbers[0] = 5
+# print(numbers)
+# print(numbers.append(60))
+# print(numbers)
+# print(numbers.insert(2, 25))
+# print(numbers)
+# print(numbers.pop())
+# print(numbers)
+# numbers.remove(25)
+# print(numbers)
+
+numbers.remove(10)
+print(numbers)
